@@ -1,7 +1,9 @@
 package NinjaKonoha;
 
 public enum TipoHabilidade {
-    TAIJUTSU, NINJUTSU, GENJUTSU, DOUJUTSU, SENJUTSU;
-
-
+    TAIJUTSU,
+    NINJUTSU,
+    GENJUTSU,
+    DOUJUTSU,
+    SENJUTSU;
 }
